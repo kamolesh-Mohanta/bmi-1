@@ -70,3 +70,11 @@ label{
     font-weight:900;
     
 }
+@media (max-width:600px){
+    .container{
+        width: 500px;
+        height: 500px;
+       position: absolute;
+    }
+
+}
